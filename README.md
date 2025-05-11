@@ -1,2 +1,2 @@
-# LanguageC-C-
-A biblio of language C/C++ with exercices
+# LanguageC/C++
+A exercice of language C/C++ by Codédex
