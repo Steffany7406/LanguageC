@@ -14,7 +14,12 @@ int main() {
   }
 }
 
-//outra versão
+*/==igual a
+!=não é igual a
+>maior que
+<menor que
+>=maior ou igual a
+<=menor ou igual a/*
 
 #include <iostream>
 
