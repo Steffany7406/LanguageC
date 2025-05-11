@@ -14,7 +14,7 @@ int main() {
   }
 }
 
-*/==igual a
+/*==igual a
 !=não é igual a
 >maior que
 <menor que
