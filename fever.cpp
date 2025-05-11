@@ -19,7 +19,7 @@ int main() {
 >maior que
 <menor que
 >=maior ou igual a
-<=menor ou igual a/*
+<=menor ou igual a*/
 
 #include <iostream>
 
