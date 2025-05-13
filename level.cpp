@@ -3,6 +3,7 @@
 int main() {
   int level; // Correção aqui: std::int -> int
 
+  std::cout << "Bem-vindo ao Jogo! Adicione seu nivel para que possamos prosseguir!\n";
   std::cout << "Digite seu nível de aprendizado: ";
   std::cin >> level;
 
