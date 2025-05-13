@@ -15,3 +15,21 @@ int main() {
   std::cout << "PIN acepted! Welcome!";
   
 }
+//
+
+#include <iostream>
+
+int main() {
+  int resp;
+
+  std::cout << "Who's number? ";
+  std::cin >> resp;
+
+  while (resp != 64) {
+    std::cout << "No. Try again: ";
+    std::cin >> resp;
+  }
+
+  std::cout << "Yes! You win!";
+  
+}
